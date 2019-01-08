@@ -1,0 +1,15 @@
+D:\3Shape\SlimDX Antonio\Framework\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+D:\3Shape\SlimDX Antonio\Framework\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+D:\3Shape\SlimDX Antonio\Framework\Shapes\bin\Debug\Shapes.dll
+D:\3Shape\SlimDX Antonio\Framework\Shapes\bin\Debug\Shapes.pdb
+D:\3Shape\SlimDX Antonio\Framework\Shapes\bin\Debug\Core.dll
+D:\3Shape\SlimDX Antonio\Framework\Shapes\bin\Debug\SlimDX.dll
+D:\3Shape\SlimDX Antonio\Framework\Shapes\bin\Debug\SpriteTextRenderer.dll
+D:\3Shape\SlimDX Antonio\Framework\Shapes\bin\Debug\AssimpNet.dll
+D:\3Shape\SlimDX Antonio\Framework\Shapes\bin\Debug\Core.pdb
+D:\3Shape\SlimDX Antonio\Framework\Shapes\bin\Debug\SlimDX.pdb
+D:\3Shape\SlimDX Antonio\Framework\Shapes\bin\Debug\SlimDX.xml
+D:\3Shape\SlimDX Antonio\Framework\Shapes\bin\Debug\AssimpNet.xml
+D:\3Shape\SlimDX Antonio\Framework\Shapes\obj\Debug\Shapes.csproj.CopyComplete
+D:\3Shape\SlimDX Antonio\Framework\Shapes\obj\Debug\Shapes.dll
+D:\3Shape\SlimDX Antonio\Framework\Shapes\obj\Debug\Shapes.pdb
